@@ -3,8 +3,11 @@
 
 Control flow graph
 
-![CFG](https://github.com/sandrailievskaa/SI_2024_lab2_223270/assets/131893105/b28ae95c-4301-4fc3-beea-061e8314b96f)
-![CFG (1)](https://github.com/sandrailievskaa/SI_2024_lab2_223270/assets/131893105/ca688867-709b-4195-b30d-43844e9e4dc9)
+![Untitled Diagram-Page-1 drawio](https://github.com/sandrailievskaa/SI_2024_lab2_223270/assets/131893105/414948f2-1a6a-4d53-a6dc-fd9878d52844)
+
+
+![Untitled Diagram-Page-1](https://github.com/sandrailievskaa/SI_2024_lab2_223270/assets/131893105/563d2bc7-0d9c-45ea-9366-f47a4ef09928)
+
 
 
 Цикломатска комплексност
