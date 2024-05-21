@@ -21,6 +21,10 @@ Control flow graph
 Цикломатска комплексност = E - V + 2 = 40 - 32 + 2 = 10
 
 
+Every Branch
+
+
+![Screenshot 2024-05-21 173816](https://github.com/sandrailievskaa/SI_2024_lab2_223270/assets/131893105/ea5d0ed7-798e-49e6-b467-2955b63778ba)
 
 
                       
